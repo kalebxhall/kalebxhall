@@ -17,7 +17,7 @@ Documenting my hands-on IT labs, cloud & identity setups, networking topologies,
 
 * **Microsoft Applied Skills:** Get Started with Identities and Access Using Microsoft Entra
 * **Microsoft Applied Skills:** Generate Reports with AI Research Agents
-* **Cisco Networking Academy:** Networking Basics & Getting Started with Cisco Packet Tracer
+* **Cisco Networking Academy:** Networking Basics & Introduction to Packet Tracer
 * **ServiceNow:** ServiceNow (Zurich) Micro-Certification
 * **Anthropic Academy:** Claude Code in Action
 
